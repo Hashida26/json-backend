@@ -1,0 +1,23 @@
+{
+  "laptops": [
+    {
+      "id": "4b62",
+      "brand": "lenovo",
+      "model": "think pad",
+      "price": 12343
+    },
+    {
+      "id": "c860",
+      "brand": "hp",
+      "model": "e",
+      "price": 12
+    },
+    {
+      "id": "75b2",
+      "brand": "lenovo 123",
+      "model": "Think pad",
+      "price": 12343
+    }
+  ],
+  "cart": []
+}
